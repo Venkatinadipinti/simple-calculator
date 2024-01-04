@@ -18,6 +18,10 @@ body{
     color: rgb(238, 30, 48);
     box-shadow: 0 0 20px greenyellow;
 }
+.b{
+    color:white;
+    background-color: black;
+}
 .h{
     font-size: 30px;
     margin: 20px;
